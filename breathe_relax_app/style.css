@@ -9,7 +9,7 @@ h1 {
 }
 
 body {
-  background: #224941 url(/img/space_two.jpg) no-repeat center center/cover;
+  background: #224941 url(/breathe_relax_app/img/space_two.jpg) no-repeat center center/cover;
   color: #fff;
   font-family: "Montserrat", sans-serif;
   min-height: 100vh;
@@ -54,7 +54,7 @@ body {
 
 .circle {
   background-color: #010f1c;
-  background-image: url(/img/three.jpg);
+  background-image: url(/breathe_relax_app/img/three.jpg);
   background-position: center;
   background-size: cover;
 
@@ -79,7 +79,7 @@ body {
 
 .pointer {
   /* background-color: #fff; */
-  background-image: url(/img/sun.jpg);
+  background-image: url(/breathe_relax_app/img/sun.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 50%;
